@@ -1,0 +1,14 @@
+[user]
+	name = Fulano
+	email = fulano@gmail.com
+[core]
+	editor = vim
+[color]
+	ui = auto
+	branch = auto
+	status = auto
+	interactive = auto
+	pager = true
+	diff = auto
+[color "diff"]
+	whitespace = red reverse
